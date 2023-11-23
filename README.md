@@ -1,12 +1,12 @@
 # Vrindha_Store_Data_Analysis
 ## Table of Contents
-* [Project Overview]
-* [Data Sources]
-* [Tools]
-* [Data Cleaning/Preparation]
-* [Data Analysis]
-* [Results/Findings]
-* [Recommendations]
+* [Project Overview](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#project-overview) 
+* [Data Sources](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#data-sources) 
+* [Tools](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#tools) 
+* [Data Cleaning/Preparation](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#data-cleaningpreparation) 
+* [Data Analysis](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#data-analysis) 
+* [Results/Findings](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#resultsfindings) 
+* [Recommendations](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#recommendations) 
 
 #### Project Overview
 The goal of this project is to conduct a comprehensive analysis of the Vrindha Store 2022 Dataset by performing data cleaning, processing, analysis, and dashboard creation in Excel.
