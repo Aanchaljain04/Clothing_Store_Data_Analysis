@@ -3,7 +3,7 @@
 * [Project Overview](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#project-overview)
 * [Data Sources](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#data-sources)
 * [Tools](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#tools)
-* [Data Cleaning/Preparation](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#table-of-contents)
+* [Data Cleaning/Preparation]
 * [Data Analysis]
 * [Results/Findings]
 * [Recommendations]
