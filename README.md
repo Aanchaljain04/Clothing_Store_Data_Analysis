@@ -1,4 +1,7 @@
 # Vrindha_Store_Data_Analysis
+## Annual Report
+![Screenshot 2023-11-23 162100](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/assets/47006604/aa9d4a11-b328-4273-99c8-b5b8eb30f084)
+
 ## Table of Contents
 * [Project Overview](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#project-overview) 
 * [Data Sources](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/blob/main/README.md#data-sources) 
