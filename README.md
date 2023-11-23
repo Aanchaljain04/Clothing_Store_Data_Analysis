@@ -1,8 +1,8 @@
 # Vrindha_Store_Data_Analysis
 ## Table of Contents
-* [Project Overview](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#project-overview)
-* [Data Sources](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#data-sources)
-* [Tools](https://github.com/Aanchaljain04/Vrindha_Store_Data_Analysis/edit/main/README.md#tools)
+* [Project Overview]
+* [Data Sources]
+* [Tools]
 * [Data Cleaning/Preparation]
 * [Data Analysis]
 * [Results/Findings]
