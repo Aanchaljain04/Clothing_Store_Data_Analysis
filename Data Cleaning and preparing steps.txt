@@ -1,0 +1,40 @@
+1. Save Raw Excel File:
+   - Go to "File" > "Save As."
+   - Choose a different location.
+   - Save the file with a different name to preserve the raw data.
+
+2. Format Column Width:
+   - Highlight the column(s) you want to format.
+   - Go to the "Home" tab.
+   - In the "Cells" group, click on "Format" and choose "Column Width."
+
+3. Apply Filter:
+   - Highlight the entire sheet.
+   - Go to the "Data" tab.
+   - Click on "Filter" to apply filters to all columns.
+
+4. Check for Blank Cells:
+   - Click on the filter icon in the column header.
+   - Unselect all checkboxes except "Blanks" to see if there are any blank cells.
+
+5. Replace "m" and "w" with "Men" and "Women":
+   - Highlight the column where you want to make the changes.
+   - Press `Ctrl + H` to open the Find and Replace dialog.
+   - In "Find what," enter "m" and in "Replace with," enter "Men."
+   - Repeat the process for "w" to "Women."
+
+6. Format Qty Column:
+   - Follow a similar process as in step 5, replacing "one" with "1" and "two" with "2."
+
+7. Add Age Group Column:
+   - Insert a new column.
+   - In the first cell of the new column, enter the formula: =IF(E2>=0, "Senior", IF(E2>=30, "Adult", "Teenager")).
+   - Drag the formula down to apply it to the entire column.
+
+8. **Extract Month from Date Column:**
+   - Insert a new column for the extracted month.
+   - In the first cell of the new column, enter the formula: =TEXT(G2, "mmm")
+   - Drag the formula down to apply it to the entire column.
+
+
+Remember to adapt column names and cell references based on your Excel sheet.
