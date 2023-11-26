@@ -10,7 +10,7 @@ By analyzing various aspects of the sales data, we seek to identify trends, make
 * Tools
 * Data Cleaning/Preparation
 * Data Analysis 
-* [Results/Findings
+* Results/Findings
 * Recommendations
 
   
