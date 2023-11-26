@@ -1,20 +1,19 @@
 # Clothing_Store_Data_Analysis
+The goal of this project is to conduct a comprehensive analysis of the Clothing Store 2022 Dataset by performing data cleaning, processing, analysis, and dashboard creation in Excel.
+By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
 ## Annual Report
 ![Screenshot 2023-11-24 120634](https://github.com/Aanchaljain04/Clothing_Store_Data_Analysis/assets/47006604/edfa7c1e-faaf-4532-a311-67caa0494def)
 
 ## Table of Contents
-* Project Overview 
 * Data Sources
 * Tools
 * Data Cleaning/Preparation
 * Data Analysis 
 * [Results/Findings
 * Recommendations
-  
-### Project Overview
-The goal of this project is to conduct a comprehensive analysis of the Clothing Store 2022 Dataset by performing data cleaning, processing, analysis, and dashboard creation in Excel.
-By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+  
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "Clothing Store Data Analysis raw data.xlsx" file, containing detailed information about each sale made by the company.
 
