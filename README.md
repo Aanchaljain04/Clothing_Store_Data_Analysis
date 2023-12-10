@@ -15,7 +15,7 @@ By analyzing various aspects of the sales data, we seek to identify trends, make
 
   
 ### Data Sources
-Sales Data: The primary dataset used for this analysis is the "Clothing Store Data Analysis raw data.xlsx" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is in the "Clothing Store Data Analysis raw data.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tools
 * Excel
